@@ -138,12 +138,37 @@ FUTURE_DS_02/
 
 ## ▶️ How to Run
 
+### 1️⃣ Clone the Repository
+
 ```bash
-git clone https://github.com/yourusername/FUTURE_DS_02.git
+git clone https://github.com/bani-ai/FUTURE_DS_02.git
 cd FUTURE_DS_02
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
+
+### 3️⃣ Run Analysis Notebook
+
+```bash
 jupyter notebook notebook/Analysis.ipynb
+```
+
+### 4️⃣ Run Dashboard Notebook
+
+```bash
 jupyter notebook dashboard/Dashboard.ipynb
+```
+
+### 5️⃣ View Dashboard
+
+Open the generated dashboard image:
+
+```text
+dashboard/dashboard.png
 ```
 
 ---
