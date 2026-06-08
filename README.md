@@ -19,6 +19,13 @@ This project is part of the **Future Interns – Data Science & Analytics Intern
 Task 2 involves a comprehensive **Customer Retention & Churn Analysis** on a telecom subscription dataset — uncovering churn patterns, retention drivers, and delivering data-backed business recommendations.
 
 ---
+## 📊 Dashboard Preview
+
+<img width="2940" height="4092" alt="dashboard" src="https://github.com/user-attachments/assets/1d76ad08-c422-48ba-b24f-21854bdae9a6" />
+
+
+The dashboard highlights customer churn patterns, retention trends, service insights, payment behavior, tenure analysis, and key business KPIs through interactive visualizations.
+
 
 ## 🎯 Objectives
 
@@ -46,7 +53,7 @@ FUTURE_DS_02/
 │
 ├── dashboard/
 │   ├── Dashboard.ipynb               # Interactive Plotly dashboard
-│   └── dashboard_preview.png         # Dashboard screenshot
+│   └── dashboard.png         # Dashboard screenshot
 │
 ├── images/
 │   └── *.png                         # Exported chart images
@@ -144,15 +151,13 @@ jupyter notebook dashboard/Dashboard.ipynb
 ## 👩‍💻 Author
 
 **Bani Priya**  
-Data Science & Analytics Intern — Future Interns  
-🔗 [LinkedIn](#) | 🐙 [GitHub](#)
+🎓 B.Tech in Artificial Intelligence
 
----a
+🏫 Delhi Skill and Entrepreneurship University (DSEU)
+
+
 
 ## ⭐ Acknowledgement
 
-Completed as part of the **Future Interns Data Science & Analytics Internship — Task 2**.  
-🌐 [futureinterns.com](https://futureinterns.com)
+I sincerely thank FUTURE Interns for providing this opportunity to work on a real-world Customer Churn Analysis project. It enhanced my practical knowledge of data analytics, visualization, and business decision-making.
 
----
-<div align="center"><i>⭐ Star this repo if you found it helpful!</i></div>
